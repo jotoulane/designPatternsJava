@@ -1,6 +1,14 @@
 # designPatternsJava
 
 
+## 设计模式七大原则
+* 单一职责原则
+* 接口隔离原则
+* 依赖倒置原则
+* 里氏替换原则
+* 迪米特法则
+* 合成复用原则
+
 创建型模式	——	——
 
 工厂方法模式	Factory Method Pattern
@@ -32,6 +40,8 @@
 代理模式	Proxy pattern
 
 行为型模式	——	——
+
+
 
 责任链模式	Chain of Responsibility Pattern
 
